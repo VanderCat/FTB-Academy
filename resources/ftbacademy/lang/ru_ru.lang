@@ -1,82 +1,82 @@
 # Chapters
 
-academy.gettingstarted.title=Getting Started
-academy.building.title=Building
+academy.gettingstarted.title=Ознакомление
+academy.building.title=Строительство
 
-academy.basics.title=Basics
+academy.basics.title=Основы
 
-academy.mainmagic.title=Magic
+academy.mainmagic.title=Магия
 academy.botania.title=Botania
 academy.twilightforest.title=Twilight Forest
 academy.astralsorcery.title=Astral Sorcery
 
-academy.mainstorage.title=Storage
-academy.storage1.title=Basic Storage
-academy.transportation.title=Transportation
-academy.refinedstorage1.title=Refined Storage - Beginner
-academy.refinedstorage2.title=Refined Storage - Advanced
-academy.refinedstorage3.title=Refined Storage - Expert
+academy.mainstorage.title=Хранение
+academy.storage1.title=Базовые хранилища
+academy.transportation.title=Транспортировка
+academy.refinedstorage1.title=Усовершенсвованное хранилище - Новичок
+academy.refinedstorage2.title=Усовершенсвованное хранилище - Любитель
+academy.refinedstorage3.title=Усовершенсвованное хранилище - Эксперт
 
-academy.maintechnology.title=Technology
-academy.technology1.title=Technology - Beginner
-academy.technology2.title=Technology - Advanced
-academy.technology3.title=Technology - Expert
+academy.maintechnology.title=Технологии
+academy.technology1.title=Технологии - Новичок
+academy.technology2.title=Технологии - Любитель
+academy.technology3.title=Технологии - Эксперт
 
-academy.misc.title=Miscellaneous Quests
+academy.misc.title=Остальные квесты
 
-academy.clickthis.task=Click this
+academy.clickthis.task=Нажмите сюда
 
 
 #Reward Tables
-academy.ticonmodifiers.rewards=TiCon Modifiers
-academy.ticonmodifiers.lapisreward=Fortune modifier
-academy.ticonmodifiers.redstonereward=Speed modifier
+academy.ticonmodifiers.rewards=Модификаторы Tinkers's Construct
+academy.ticonmodifiers.lapisreward=Модификатор удачи
+academy.ticonmodifiers.redstonereward=Модификатор Ускорения
 
-academy.ores.rewards=Ores
-academy.mysticalpetals.rewards=Mystical Petals
-academy.mobmasher.rewards=Mob Masher Modifiers
-academy.manamats.rewards=Mana Materials
+academy.ores.rewards=Руды
+academy.mysticalpetals.rewards=Мистические лепестки
+academy.mobmasher.rewards=Mob Masher Модификатор
+academy.manamats.rewards=Материалы маны
 academy.elfmats.rewards=Elven Materials
-academy.ingots.rewards=Ingots
-academy.scepters.rewards=Scepters
+academy.ingots.rewards=Слитки
+academy.scepters.rewards=Скипетры
 academy.TFfirethings.rewards=Fire Thingies
-academy.fluiducts.rewards=Fluiducts
-academy.itemducts.rewards=Itemducts
-academy.iflenses.rewards=Laser Lenses
-academy.passivemobs.rewards=Passive Mobs
-academy.impulseitemducts.rewards=Impulse Itemducts
-academy.signalumitemducts.rewards=Signalum-Plated Itemducts
-academy.signalumimpulse.rewards=Signalum-Plated Impulse Itemducts
-academy.hardenedfluiducts.rewards=Hardened Fluiducts
-academy.signalumfluiducts.rewards=Signalum-Plated Fluiducts
-academy.laminarfluiducts.rewards=Super-Laminar Fluiducts
-academy.elevators.rewards=Elevators
-academy.meats.rewards=Meats
+academy.fluiducts.rewards=Жидкостные трубы
+academy.itemducts.rewards=Предметные трубы
+academy.iflenses.rewards=Лазерные линзы
+academy.passivemobs.rewards=Пассивные мобы
+academy.impulseitemducts.rewards=Импульсные предметная трубы
+academy.signalumitemducts.rewards=Колеблющиеся предметные трубы
+academy.signalumimpulse.rewards=Покрытые сигналовые импульсные предметные трубы
+academy.hardenedfluiducts.rewards=Усиленные жидкостные трубы
+academy.signalumfluiducts.rewards=Покрытые флаксом жидкостные трубы
+academy.laminarfluiducts.rewards=Сверхпластичные жидкостные трубы
+academy.elevators.rewards=Лифты
+academy.meats.rewards=Мяса
 academy.rangeaddons.rewards=Range Addons
 academy.drillaugments.rewards=Drill Augments
 
-academy.swordenchants1.rewards=Sword Enchants 1
+academy.swordenchants1.rewards=Зачарование для меча 1
 academy.looting1.reward=Looting II
-academy.sharpness1.reward=Sharpness III
+academy.sharpness1.reward=Острота III
 academy.reaper1.reward=Reaper II
 
-academy.swordenchants2.rewards=Sword Enchants 2
+academy.swordenchants2.rewards=Зачарование для меча 2
 academy.looting2.reward=Looting IV
-academy.sharpness2.reward=Sharpness VI
+academy.sharpness2.reward=Острота VI
 academy.reaper2.reward=Reaper V
 
-academy.bowenchants1.rewards=Bow Enchants 1
+academy.bowenchants1.rewards=Зачарование для лука 1
 academy.power1.reward=Power III
 academy.punch1.reward=Punch I
 
-academy.bowenchants2.rewards=Bow Enchants 2
+academy.bowenchants2.rewards=Зачарование для лука 2
 academy.power2.reward=Power VI
 academy.punch2.reward=Punch III
 
-academy.helmenchants.rewards=Helmet Enchants
-academy.chestenchants.rewards=Chestplate Enchants
-academy.legenchants.rewards=Legging Enchants
-academy.bootenchants.rewards=Boot Enchants
+academy.helmenchants.rewards=Зачарование для шлемов
+academy.chestenchants.rewards=Зачарование для нагрудников
+academy.legenchants.rewards=Зачарование для поножей
+academy.bootenchants.rewards=Зачарование для ботинок
 
 academy.depthstr1.reward=Depth Strider II
 academy.feathfall1.reward=Feather Falling IV
@@ -123,13 +123,13 @@ academy.ulteria.reward=Ulteria
 academy.vorux.reward=Vorux
 
 academy.coloredlenses.rewards=Colored Lenses
-academy.orangelens.reward=Ignition
-academy.yellowlens.reward=Break
-academy.greenlens.reward=Growth
-academy.redlens.reward=Damage
-academy.pinklens.reward=Regeneration
-academy.bluelens.reward=Push
-academy.purplelens.reward=Spectral
+academy.orangelens.reward=Поджигание
+academy.yellowlens.reward=Разрушение
+academy.greenlens.reward=Ращение
+academy.redlens.reward=Урон
+academy.pinklens.reward=Регенерация
+academy.bluelens.reward=Толкание
+academy.purplelens.reward=Спектральное
 
 
 #Advancements lang keys have been moved to FTB Academy Mod itself instead of here, https://github.com/FTBTeam/FTB-Academy-Mod to translate.
@@ -1727,20 +1727,20 @@ academy.atgrowth.text=While on, the Ring of Growth uses RF to make nearby crops 
 # Tutorials
 
 academy.tutorial.jei.title=Tutorial: Just Enough Items
-academy.tutorial.jei.1=Your Inventory
-academy.tutorial.jei.2=Mods add a lot of new blocks and items to the game, so remembering how to craft them all can be hard. That's where the mod "Just Enough Items" comes in.
-academy.tutorial.jei.3=JEI is the mod that adds the list of items on the right side of the inventory.
-academy.tutorial.jei.4=Item Searching
-academy.tutorial.jei.5=You can filter the item list by typing the name of the item into the search bar.
-academy.tutorial.jei.6=Tooltip information
-academy.tutorial.jei.7=Hovering over an item will show the item's name as well as what mod it's from.
-academy.tutorial.jei.8=Recipes
-academy.tutorial.jei.9=Click on an item (or hover over it and hit R) to see how to make it.
-academy.tutorial.jei.10=You can also right click the item (or hover over it and hit U) to see what recipes use that item.
-academy.tutorial.jei.11=These are all the blocks and items that you can use to craft the item using these recipes.
-academy.tutorial.jei.29=Some items have information tabs where you can read how that item works.
-academy.tutorial.jei.12=The Ore Dictonary
-academy.tutorial.jei.13=Certain recipes can accept a type of item, rather than a single specific item. This is called the Ore Dictionary.
+academy.tutorial.jei.1=Ваш инветарь
+academy.tutorial.jei.2=Моды добовляют очень много вещей в игру, что запомнить как создать что-то будет сложно. И тут нам поможет мод "Just Enough Items".
+academy.tutorial.jei.3=JEI это мод который добавляет список вещей в правую часть вашего инвентаря.
+academy.tutorial.jei.4=Поиск по предметам
+academy.tutorial.jei.5=Вы можете отфильтровать список предметов вводя название предмета в поисковую строку.
+academy.tutorial.jei.6=Информация по всплывающим подсказкам
+academy.tutorial.jei.7=Наведя на предмет вам покажут название предмета так же, как и из какого мода он.
+academy.tutorial.jei.8=Рецепты
+academy.tutorial.jei.9=Нажмите на предмет (или наведите на него и нажмите R) чтобы увидеть как его создать.
+academy.tutorial.jei.10=Вы так же можете нажать правой кнопкой мыши на предмете(или навести на него и нажмите U) чтобы увиидеть в каком крафте он используется.
+academy.tutorial.jei.11=Здесь все блоки и предметы, которые вы можете использовать для создания предмета используя этот рецепт.
+academy.tutorial.jei.29=У некоторых предметов есть информационная вкладка где вы можете прочитать о том как оно работает.
+academy.tutorial.jei.12=Словрь руд
+academy.tutorial.jei.13=некоторые рецепты могут принять тип предмета, а не один особый предмет. Это называется словарь руд.
 academy.tutorial.jei.14=You can hover over an item in a recipe to see what type of item can be used instead of the specific one shown.
 academy.tutorial.jei.15=These are all the blocks and items that you can use to craft the item using these recipes.
 academy.tutorial.jei.16=Processing recipes
@@ -1821,12 +1821,12 @@ academy.tutorial.journeymap.19=Cave Layers button
 
 # Overlays
 
-academy.overlay.welcome.title=Welcome to FTB Academy!
-academy.overlay.welcome.1=Right-click Quest Book in your inventory to begin school!
+academy.overlay.welcome.title=Добро пожаловать в Академию FTB!
+academy.overlay.welcome.1=Нажминте ПКМ по Квестовой книге в вашем инвенторе чтобы начать учиться!
 
-academy.overlay.storage.title=Storage
-academy.overlay.storage.1=Go to the Storage Area
-academy.overlay.storage.2=Open the different storage blocks
+academy.overlay.storage.title=Хранилища
+academy.overlay.storage.1=Пройдите в зону Хранилищ
+academy.overlay.storage.2=Откройте разные хранилища
 academy.overlay.storage.3=Take the Wood to Iron Chest Upgrade out of the Chest
 academy.overlay.storage.4=Upgrade the Chest by right clicking the Upgrade on it
 academy.overlay.storage.5=Punch the Cobblestone Storage Drawer to take some out
